@@ -1,0 +1,53 @@
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Desenvolverdor.io\Projeto\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Projetos\dotnet\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\versionamento-api\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\paschoalotto - Copy\backend\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

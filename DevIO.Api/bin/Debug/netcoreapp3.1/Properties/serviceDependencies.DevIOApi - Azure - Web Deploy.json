@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourcegroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/devdbserver/databases/DevIO.Api_db",
+      "type": "mssql.azure",
+      "connectionId": "DefaultConnection",
+      "secretStore": "AzureAppSettings"
+    },
+    "secrets1": {
+      "type": "secrets",
+      "suggestion": "true",
+      "ignored": "true"
+    }
+  }
+}
