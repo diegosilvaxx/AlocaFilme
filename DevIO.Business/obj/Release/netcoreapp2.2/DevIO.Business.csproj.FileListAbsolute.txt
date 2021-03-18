@@ -25,3 +25,12 @@ C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Release\netcorea
 C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.dll
 C:\Users\diego\source\repos\Backend-Base\src\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\obj\Release\netcoreapp2.2\DevIO.Business.pdb

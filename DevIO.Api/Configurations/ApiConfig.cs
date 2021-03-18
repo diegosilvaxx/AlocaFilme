@@ -39,8 +39,8 @@ namespace DevIO.Api.Configurations
 
                 options.AddPolicy("Production",
                     builder => builder
-                        .WithMethods("GET", "POST", "PUT", "DELETE", "OPTIONS")
-                        .WithOrigins("https://meusistema.com.br", "https://meuoutrosistema.com.br")
+                        .AllowAnyMethod()
+                        .AllowAnyOrigin()
                         .AllowAnyHeader());
 
             });

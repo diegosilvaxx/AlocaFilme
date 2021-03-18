@@ -1,0 +1,5 @@
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\publish\DevIO.Business.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\publish\DevIO.Business.deps.json
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\publish\DevIO.Business.pdb
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\publish\FluentValidation.dll
+C:\Users\diego\source\repos\Backend-Base\DevIO.Business\bin\Release\netcoreapp2.2\publish\Newtonsoft.Json.dll
